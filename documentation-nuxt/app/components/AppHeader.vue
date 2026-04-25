@@ -33,7 +33,7 @@ const { header } = useAppConfig();
 
     <template v-else #left>
       <NuxtLink :to="header?.to || '/'">
-        <h3>StepHub</h3>
+        <h3>Rosavo</h3>
       </NuxtLink>
     </template>
 
