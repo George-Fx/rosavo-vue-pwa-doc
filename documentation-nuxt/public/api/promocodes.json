@@ -1,26 +1,38 @@
 [
   {
-    "id": 1,
-    "name": "FootFlex Outlet",
-    "code": "Discount24",
-    "image": "https://george-fx.github.io/stephub-data/promocodes/01.jpg",
-    "discount": 50,
-    "expiry": "June 30, 2027"
+    "id": 5,
+    "logo": "https://george-fx.github.io/rossi-data/promocodes/01.jpg",
+    "title": "Moka PT.",
+    "code": "MOKA15",
+    "discount": 15,
+    "expiresAt": "December 7, 2025",
+    "isActive": true
   },
   {
-    "id": 2,
-    "name": "UrbanStride Showcase",
-    "code": "Discount25",
-    "image": "https://george-fx.github.io/stephub-data/promocodes/02.jpg",
-    "discount": 30,
-    "expiry": "June 30, 2027"
+    "id": 4,
+    "logo": "https://george-fx.github.io/rossi-data/promocodes/02.jpg",
+    "title": "Barone LLC.",
+    "code": "BARONE15",
+    "discount": 15,
+    "expiresAt": "July 3, 2026",
+    "isActive": true
   },
   {
     "id": 3,
-    "name": "SneakPeak Plaza",
-    "code": "Discount26",
-    "image": "https://george-fx.github.io/stephub-data/promocodes/03.jpg",
-    "discount": 15,
-    "expiry": "June 30, 2027"
+    "logo": "https://george-fx.github.io/rossi-data/promocodes/03.jpg",
+    "title": "Abstergo ltd.",
+    "code": "ABSTERGO30",
+    "discount": 30,
+    "expiresAt": "April 4, 2026",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "logo": "https://george-fx.github.io/rossi-data/promocodes/04.jpg",
+    "title": "Acme Co.",
+    "code": "ACME50",
+    "discount": 50,
+    "expiresAt": "December 6, 2025",
+    "isActive": true
   }
 ]
