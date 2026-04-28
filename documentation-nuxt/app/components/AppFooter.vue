@@ -7,7 +7,7 @@ const { footer } = useAppConfig();
     <template #left>
       Crafted by
       <a
-        href="https://codecanyon.net/user/george_fx"
+        href="https://themeforest.net/user/george_fx"
         target="_blank"
         class="underline hover:text-primary"
       >

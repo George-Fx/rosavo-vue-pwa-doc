@@ -39,9 +39,9 @@ export default defineAppConfig({
     links: [
       {
         icon: "i-simple-icons-envato",
-        to: "https://codecanyon.net/user/george_fx/portfolio",
+        to: "https://themeforest.net/user/george_fx/portfolio",
         target: "_blank",
-        "aria-label": "CodeCanyon",
+        "aria-label": "ThemeForest",
       },
     ],
   },
